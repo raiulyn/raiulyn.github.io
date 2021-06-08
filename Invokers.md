@@ -11,6 +11,7 @@
 * Class abilities
 * Stealth-based Gameplay
 * Reactive AI systems
+
 ---
 ### Images
 ---
