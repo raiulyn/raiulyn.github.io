@@ -1,3 +1,4 @@
+[Back](/)
 ## Portfolio
 
 ---
@@ -10,7 +11,7 @@ Submitted as an entry to
 * Animations created in [UMotion Pro](https://www.soxware.com/umotion/)
 * Shaders created in [Shader Sandwich](https://assetstore.unity.com/packages/tools/visual-scripting/shader-sandwich-41290)
 ---
-Images
+### Images
 ---
 <img src="images/Proxi Art Header.png?raw=true"/>
 <img src="images/Proxi1.PNG?raw=true"/>
