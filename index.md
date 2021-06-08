@@ -1,35 +1,56 @@
 ## Portfolio
 
----
-
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Projects
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[URP Tests](/LoveSick)
+---
+<img src="images/Desuki1.PNG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Invokers](/Invokers)
+---
+<img src="images/Invokers_StoreHeader.png?raw=true"/>
 
+---
+[Unannounced 2D Platformer](/Ned)
+---
+<img src="images/Ned.png?raw=true"/>
+
+---
+[Mobile Tests](/GrandNight)
+---
+<img src="images/GN_1.gif?raw=true"/>
+
+---
+[Proxi Art Challenge](/ProxiArtChallenge)
+---
+<img src="images/Proxi Art Header.png?raw=true"/>
+
+---
+Earlier Works
+---
+- [Rhythm](/Rhythm)
+
+- [MutantBurgers](/MutantBurgers)
+
+- [Clones](/Clones)
+
+
+
+
+<!--
 ---
 
 ### Category Name 2
 
+[Sample Page](/sample_page)
 - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
-
+-->
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
