@@ -6,6 +6,7 @@
 * Rhythm Mechanics (Button Inputs)
 * Score Tracking
 * AI Girl with Result Reaction
+
 ---
 ### Images
 ---
