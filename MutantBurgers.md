@@ -7,6 +7,7 @@ Role: Programmer
 * Unity3D
 * Casual Game Prototype
 * Scripting in C#
+
 ---
 ### Images
 ---
