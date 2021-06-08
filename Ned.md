@@ -1,3 +1,4 @@
+[Back](/)
 ## Unannounced 2D platformer
 
 ---
@@ -10,7 +11,7 @@ Role: Level Designer
 * Q&A tests and report bugs
 * Assist in additional C# scripting work and game design
 ---
-Images
+### Images
 ---
 <img src="images/Mine1.PNG?raw=true"/>
 <img src="images/Mine2.PNG?raw=true"/>
