@@ -10,6 +10,7 @@ Submitted as an entry to
 * 3D Modelling and Rigging in Blender
 * Animations created in [UMotion Pro](https://www.soxware.com/umotion/)
 * Shaders created in [Shader Sandwich](https://assetstore.unity.com/packages/tools/visual-scripting/shader-sandwich-41290)
+
 ---
 ### Images
 ---
