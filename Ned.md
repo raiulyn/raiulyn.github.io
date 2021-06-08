@@ -10,6 +10,7 @@ Role: Level Designer
 * Provide and produce early concepts
 * Q&A tests and report bugs
 * Assist in additional C# scripting work and game design
+
 ---
 ### Images
 ---
