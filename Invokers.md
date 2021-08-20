@@ -2,7 +2,10 @@
 ## Invokers
 
 ---
+[Prototype Executable Link](https://raiulyn.itch.io/invokers-demo)
+
 [Game Design Doc Link](https://docs.google.com/document/d/13KQyduSWmoAuqiHuFU_YegeXJFburoLa2nXcoRL6rog/edit?usp=sharing)
+
 ---
 * Unity3D
 * High Definition Rendering Pipeline
