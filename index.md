@@ -5,27 +5,27 @@
 ---
 [URP Tests](/LoveSick)
 ---
-<img src="images/Desuki1.PNG?raw=true"/>
+[<img src="images/Desuki1.PNG?raw=true"/>](/LoveSick)
 
 ---
 [Invokers](/Invokers)
 ---
-<img src="images/Invokers_StoreHeader.png?raw=true"/>
+[<img src="images/Invokers_StoreHeader.png?raw=true"/>](/Invokers)
 
 ---
 [Unannounced 2D Platformer](/Ned)
 ---
-<img src="images/Ned.png?raw=true"/>
+[<img src="images/Ned.png?raw=true"/>](/Ned)
 
 ---
 [Mobile Tests](/GrandNight)
 ---
-<img src="images/GN_1.gif?raw=true"/>
+[<img src="images/GN_1.gif?raw=true"/>](/GrandNight)
 
 ---
 [Proxi Art Challenge](/ProxiArtChallenge)
 ---
-<img src="images/Proxi Art Header.png?raw=true"/>
+[<img src="images/Proxi Art Header.png?raw=true"/>](/ProxiArtChallenge)
 
 ---
 Earlier Works
