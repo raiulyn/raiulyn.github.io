@@ -3,11 +3,6 @@
 ### Projects
 
 ---
-[URP Tests](/LoveSick)
----
-[<img src="images/Desuki1.PNG?raw=true"/>](/LoveSick)
-
----
 [Invokers](/Invokers)
 ---
 [<img src="images/Invokers_StoreHeader.png?raw=true"/>](/Invokers)
