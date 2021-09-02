@@ -4,9 +4,8 @@
 ---
 [Prototype Executable Link](https://raiulyn.itch.io/invokers-demo)
 
-[Game Design Doc Link](https://docs.google.com/document/d/13KQyduSWmoAuqiHuFU_YegeXJFburoLa2nXcoRL6rog/edit?usp=sharing)
-
 ---
+[Game Design Doc Link](https://docs.google.com/document/d/13KQyduSWmoAuqiHuFU_YegeXJFburoLa2nXcoRL6rog/edit?usp=sharing)
 * Unity3D
 * High Definition Rendering Pipeline
 * First Person Shooter
@@ -16,8 +15,10 @@
 * Reactive AI systems
 
 ---
-### Images
+[Code Samples](https://gist.github.com/raiulyn/e87bb611cfe7e0ef6e5e576a4499313a)
+
 ---
+### Images and Gifs
 <img src="images/Invokers_StoreHeader.png?raw=true"/>
 <img src="images/FPSv1.gif?raw=true"/>
 <img src="images/FPSv2.gif?raw=true"/>
