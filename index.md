@@ -5,7 +5,7 @@
 ---
 [Left Behind](https://www.alkorynstudios.com/leftbehind)
 ---
-[<img src="images/LeftBehindBanner.jpg?raw=true"/>](/Invokers)
+[<img src="images/LeftBehindBanner.jpg?raw=true"/>](https://www.alkorynstudios.com/leftbehind)
 
 ---
 [Invokers](/Invokers)
